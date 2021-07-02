@@ -13,6 +13,7 @@ Aplicação como exemplo de aplicação em [Flutter](https://flutter.dev), para 
 
 ## [Equipe](#equipe)
  - [**Rodrigo Souza Tassoni**](mailto:tazzsoni@gmail.com) - [TazzSoni](https://github.com/tazzsoni)
+ - [**Mayron Boelling Da Silva**]
  
 ## [Atividade](#atividade)
 
