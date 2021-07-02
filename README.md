@@ -1,16 +1,20 @@
-# appflutter
+<!-- Visualizador online: https://stackedit.io/ -->
+ ![Logo da UDESC Alto Vale](http://www1.udesc.br/imagens/id_submenu/2019/marca_alto_vale_horizontal_assinatura_rgb_01.jpg)
 
-A new Flutter project.
+---
 
-## Getting Started
+# Procurar Palavras em Arquivos com Threads
 
-This project is a starting point for a Flutter application.
+Aplicação como exemplo de aplicação em [Flutter](https://flutter.dev), para atividade de WorkShop da disciplina de Desenvolvimento para Dispositivos Móveis do [Centro de Educação Superior do Alto Vale do Itajaí (CEAVI/UDESC)](https://www.udesc.br/ceavi)<br>
 
-A few resources to get you started if this is your first Flutter project:
+# Sumário
+* [Equipe](#equipe)
+* [Atividade](#atividade)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## [Equipe](#equipe)
+ - [**Rodrigo Souza Tassoni**](mailto:tazzsoni@gmail.com) - [TazzSoni](https://github.com/tazzsoni)
+ 
+## [Atividade](#atividade)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Esta atividade é uma parte da apresentação de WorkShop com o tema Flutter, desenvolvimento para dispositivos móveis. A aplicação consiste em um ListView com uma lista de objetos via requisição http.<br>
+
